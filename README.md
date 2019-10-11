@@ -40,7 +40,7 @@ as' the result, the whole outcome may in the saved file.
 Citation:
 
 Please cite the following paper for using HydLoc:
-Qixing Huang, Yang Wang, Xingyu Chen, Jinlong Li, Haiyan Liu,
+Qixing Huang, Xingyu Chen, Yang Wang, Jinlong Li, Haiyan Liu,
 Yun Xie, Zong Dai, Xiaoyong Zou* and Zhanchao Li*. HydLoc: a 
 tool for hydroxyproline and hydroxylysine sites prediction in 
 the human proteome. CHEMOMETR INTELL LAB, 2019.
