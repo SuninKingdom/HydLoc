@@ -1,5 +1,9 @@
 # HydLoc
-* [Introduction]
+* [Introduction](#introduction)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Notice](#notice)
+* [Citation](#citation)
 
 ## Introduction:
 
