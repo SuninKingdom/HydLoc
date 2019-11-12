@@ -22,10 +22,9 @@ human hydroxylation sites.
 
 ### Installation:
 
-Download the package. The size of 'Hyd.exe' is about 283 MB, please download the right file.  
-Make sure that 'clf1', 'clf2', 'HL.ico' are in the same folder with 'HydLoc.exe', and do not
-change the name of them. For the beauty and stability of the interface, the version of Office 
-is better not earlier than 2016.
+Download the package. The size of 'Hyd.exe' is about 283 MB, please download the right file.Make sure that 
+'clf1', 'clf2', 'HL.ico' are in the same folder with 'HydLoc.exe', and do not change the name of them. For 
+the beauty and stability of the interface, the version of Office is better not earlier than 2016.
 
 ### Usage:
 
@@ -39,9 +38,8 @@ is better not earlier than 2016.
 
 * 1.The protein sequence should be given in Fasta format.
 
-* 2.If there exists amino acids beyond the 20 standard amino acids in the query
-
-    sequences, HydLoc will randomly replaced them with standard amino acids. 
+* 2.If there exists amino acids beyond the 20 standard amino acids in the querysequences, HydLoc will randomly 
+  replaced them with standard amino acids. 
 
 * 3.If the proline/lysine residues appear in the first or the last nine/fourteen in the query sequence, 
     they will be regarded as non-hydroxylated sites by HydLoc. 
@@ -53,7 +51,5 @@ is better not earlier than 2016.
 ### Citation:
 
 Please cite the following paper for using HydLoc:
-Qixing Huang, Xingyu Chen, Yang Wang, Jinlong Li, Haiyan Liu,
-Yun Xie, Zong Dai, Xiaoyong Zou* and Zhanchao Li*. HydLoc: a 
-tool for hydroxyproline and hydroxylysine sites prediction in 
-the human proteome. CHEMOMETR INTELL LAB, 2019.
+Qixing Huang, Xingyu Chen, Yang Wang, Jinlong Li, Haiyan Liu,Yun Xie, Zong Dai, Xiaoyong Zou* and Zhanchao Li*. 
+HydLoc: a tool for hydroxyproline and hydroxylysine sites prediction in the human proteome. CHEMOMETR INTELL LAB, 2019.
