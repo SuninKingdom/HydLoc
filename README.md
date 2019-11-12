@@ -1,10 +1,11 @@
 <h1 align="center">
   <img alt="logo" src="logo.png">
 </h1>
-<h2 align="center">
+<h1 align="center">
   <img alt="internal title" src="internal title.svg">
-</h2>
-# HydLoc-human hydroxylation sites predictor
+</h1>
+
+
 ## Table of Contents
 * [Introduction](#introduction)
 * [Installation](#installation)
