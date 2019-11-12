@@ -1,3 +1,9 @@
+<h1 align="center">
+  <img src="logo1.svg" alt="Nerd Fonts Logo"/>
+</h1>
+<h2 align="center">
+  <img alt="Iconic" src="logo2.svg">
+</h2>
 # HydLoc-human hydroxylation sites predictor
 ## Table of Contents
 * [Introduction](#introduction)
