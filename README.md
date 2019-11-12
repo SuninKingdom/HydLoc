@@ -1,8 +1,8 @@
 <h1 align="center">
-![Picture]http://github.com/SuninKingdom/HydLoc/logo.png
+![Picture alt="logo.png"](http://github.com/SuninKingdom/HydLoc/logo.png)
 </h1>
 <h2 align="center">
-  <img alt="internal logo" src="internal logo.svg">
+  <img alt="internal title" src="internal title.svg">
 </h2>
 # HydLoc-human hydroxylation sites predictor
 ## Table of Contents
