@@ -1,5 +1,5 @@
 <h1 align="center">
-![alt logo.png](http://github.com/SuninKingdom/HydLoc/blob/master/logo.png)
+![alt logo.png](https://github.com/SuninKingdom/HydLoc/blob/master/logo.png)
 </h1>
 <h2 align="center">
   <img alt="internal title" src="internal title.svg">
