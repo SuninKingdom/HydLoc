@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="logo.svg" alt="logo"/>
+![Picture]http://github.com/SuninKingdom/HydLoc/logo.png
 </h1>
 <h2 align="center">
   <img alt="internal logo" src="internal logo.svg">
