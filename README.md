@@ -23,13 +23,11 @@ human proteins, it is recommended that HydLoc is only used to seek human hydroxy
 
 ### Installation:
 
-Download the package. The size of 'HydLoc.exe' is about **283 MB**.
-It can not be downloaded directly through 'HydLoc-master.zip'.
-Please download the complete file in the “HydLoc.exe” item on GitHub 
-(https://github.com/SuninKingdom/HydLoc/blob/master/HydLoc.exe). 
-Make sure that **'clf1', 'clf2', 'HL.ico'** are in the same folder with **'HydLoc.exe'**, 
-and do not change the name of them. For the beauty and stability of the interface, the version 
-of Office is better not earlier than 2016.
+Download the package. The size of 'HydLoc.exe' is about **283 MB**. It can not be downloaded<br>
+directly through 'HydLoc-master.zip'. Please download the complete file in the ['HydLoc.exe' item](https://github.com/SuninKingdom/HydLoc/blob/master/HydLoc.exe)<br>
+on GitHub. Make sure that **'clf1', 'clf2', 'HL.ico'** are in the same folder with **'HydLoc.exe'**,<br>
+and do not change the name of them. For the beauty and stability of the interface, the version of Office<br>
+is better not earlier than 2016.
 
 ### Usage:
 
