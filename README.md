@@ -41,18 +41,18 @@ earlier than 2016.
 
 * 1.The protein sequence should be given in Fasta format.
 
-* 2.If there exists amino acids beyond the 20 standard amino acids in the query sequences, HydLoc will replace 
-    them with native amino acids picked up randomly. 
+* 2.If there exists amino acids beyond the 20 natural amino acids in the query sequences,<br>
+    HydLoc will replace them with canonical amino acids picked up randomly. 
 
-* 3.If the proline/lysine residues appear in the first or the last nine/fourteen in the query sequence, 
-    they will be regarded as non-hydroxylated sites by HydLoc. 
+* 3.If the proline/lysine residues appear in the first or the last nine/fourteen in the<br>
+    query sequence,they will be regarded as non-hydroxylated sites by HydLoc. 
 
-* 4.If the protein query list was too long, more patience is needed for the result.And if the result could 
-    not be completely projected on the result canvas, please 'Save as' the result, the whole outcome may in
-    the saved file.
+* 4.If the protein query list was too long, more patience is needed for the result. And if<br>
+    the result could not be completely projected on the result canvas, please 'Save as' the result,<br>
+    the whole outcome may in the saved file.
 
 ### Citation:
 
-Please cite the following paper for using HydLoc:
-Qixing Huang, Xingyu Chen, Yang Wang, Jinlong Li, Haiyan Liu,Yun Xie, Zong Dai, Xiaoyong Zou* and Zhanchao Li*. 
+Please cite the following paper for using HydLoc:<br>
+Qixing Huang, Xingyu Chen, Yang Wang, Jinlong Li, Haiyan Liu,Yun Xie, Zong Dai, Xiaoyong Zou* and Zhanchao Li*.<br> 
 HydLoc: a tool for hydroxyproline and hydroxylysine sites prediction in the human proteome. *CHEMOMETR INTELL LAB*, 2019.
