@@ -17,16 +17,16 @@
 
 HydLoc is a random forest based hydroxylation sites predictor for human proteins. HydLoc is provided as a 
 Microsoft Windows executable packed up with PyInstaller, which makes it easy to use. The source code of HydLoc 
-is also uploaded. It is a python script called 'HydLoc.py'. Users can run it to predict hydroxylation sites too. 
-Because the training dataset of HydLoc is human proteins, it is recommended that HydLoc is only used to predict 
-human hydroxylation sites.
+is also uploaded. It is a python script called 'HydLoc.py'. Users can run it to predict hydroxylation sites too. Because 
+the training dataset of HydLoc is human proteins, it is recommended that HydLoc is only used to predict human hydroxylation sites.
 
 ### Installation:
 
 Download the package. The size of 'HydLoc.exe' is about **283 MB**. It can not be downloaded 
-directly through 'HydLoc-master.zip'. Please download the complete file in the “HydLoc.exe” item on GitHub (https://github.com/SuninKingdom/HydLoc/blob/master/HydLoc.exe). Make sure that **'clf1', 'clf2', 'HL.ico'**
-are in the same folder with **'HydLoc.exe'**, and do not change the name of them. For the beauty and stability 
-of the interface, the version of Office is better not earlier than 2016.
+directly through 'HydLoc-master.zip'. Please download the complete file in 
+the “HydLoc.exe” item on GitHub (https://github.com/SuninKingdom/HydLoc/blob/master/HydLoc.exe). 
+Make sure that **'clf1', 'clf2', 'HL.ico'** are in the same folder with **'HydLoc.exe'**, and do not change the name of them. 
+For the beauty and stability of the interface, the version of Office is better not earlier than 2016.
 
 ### Usage:
 
