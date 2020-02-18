@@ -19,6 +19,8 @@ HydLoc is a random forest based hydroxylation sites predictor for human proteins
 Windows executable packed up with PyInstaller, which makes it easy to use. The source code of HydLoc is also uploaded.<br>
 It is a python script called 'HydLoc.py'. Users can run it to predict hydroxylation sites too.Because the training dataset<br>
 of HydLoc is human proteins, it is recommended that HydLoc is only used to predict human hydroxylation sites.
+***
+---
 
 ### Installation:
 
