@@ -22,9 +22,11 @@ human hydroxylation sites.
 
 ### Installation:
 
-Download the package. The size of 'Hyd.exe' is about 283 MB, please download the right file.Make sure that 
-'clf1', 'clf2', 'HL.ico' are in the same folder with 'HydLoc.exe', and do not change the name of them. For 
-the beauty and stability of the interface, the version of Office is better not earlier than 2016.
+Download the package. The size of 'HydLoc.exe' is about 283 MB, which means it can not be downloaded directly 
+through 'HydLoc-master.zip'. Please download the in the “HydLoc.exe” item on GitHub(https://github.com/SuninKingdom/
+HydLoc/blob/master/HydLoc.exe) file. And make sure that 'clf1', 'clf2', 'HL.ico' are in the same folder with 
+'HydLoc.exe', and do not change the name of them. For the beauty and stability of the interface, the version 
+of Office is better not earlier than 2016.
 
 ### Usage:
 
