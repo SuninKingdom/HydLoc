@@ -55,4 +55,4 @@ earlier than 2016.
 
 Please cite the following paper for using HydLoc:<br>
 Qixing Huang, Xingyu Chen, Yang Wang, Jinlong Li, Haiyan Liu,Yun Xie, Zong Dai, Xiaoyong Zou* and Zhanchao Li*.<br> 
-HydLoc: a tool for hydroxyproline and hydroxylysine sites prediction in the human proteome. *CHEMOMETR INTELL LAB*, 2019.
+HydLoc: a tool for hydroxyproline and hydroxylysine sites prediction in the human proteome. *CHEMOMETR INTELL LAB*, 2020.
